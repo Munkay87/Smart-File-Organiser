@@ -1,0 +1,18 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Build and distribution files
+build/
+dist/
+*.exe
+*.zip
+
+# Editor / operating system files
+.vscode/
+.DS_Store
+Thumbs.db
